@@ -17,6 +17,7 @@ public class Fb_Login {
 		driver.get("https://www.facebook.com/");
 		
 		driver.navigate().to("https://www.facebook.com/");
+		System.out.println("Git hub checking");
 	}
 
 }
